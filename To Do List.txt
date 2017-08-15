@@ -1,0 +1,4 @@
+- Change Background (astrology)
+
+Later :
+Add mobile swiping to Carousel
